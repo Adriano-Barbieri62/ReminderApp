@@ -1,4 +1,4 @@
-  % ReminderApp (Reminder) - User manual
+# ReminderApp (Reminder) - User manual
 
 <html lang="en">
 
@@ -82,7 +82,7 @@ Press Enter, a dialog box appears as name:
 Select the location and export name of your list, in the edit field:    
 `File name`    
 Then indicating txt or json in the document type.    
-`TypeÂ :  Text files (*.txt)`    
+`Type :  Text files (*.txt)`    
 Down arrow to find:    
 `JSON files (*.json)`    
 Finally save your file by pressing the button:    
@@ -126,7 +126,7 @@ In this second menu we will have the following options:
 If you add a note to a reminder, it will be saved in ReminderApp_config /ReminderApp_notes folder.    
 Notes have a unique number in the file name, e.g. "Notes_xxxx.txt", the program is therefore able to find and manage them.    
 Note: In the dialog, when adding an Anniversary or Birthday, you can also select a tune and play/stop it via a combo box and button.    
-The melodies are stored in the Sounds, Samples, Melodies folder and are in .wave format.    
+The melodies are stored in the Sounds, Samples, Melodies folder and are in .wav format.    
 You can add more as long as they are of the same format and of short duration.    
 If there are multiple anniversaries/birthdays on the same day, these will be grouped into a single notification, therefore the first melody on the list will be used.    
 Continuing with the Edit menu:    
@@ -269,5 +269,5 @@ Pressing the Enter key on this option will exit the program.
 
 Thank you for reading this documentation!    
 
-I wish you good use of the program ReminderApp (Reminder) ðŸ˜‰    
-I would like to sincerely thank [RÃ©my Ruiz](mailto:remyruiz@gmail.com) for writing this documentation and translation of ReminderApp into French, English, Italian and Spanish and for his feedback and suggestions.    
+I wish you good use of the program ReminderApp (Reminder) 😉    
+I would like to sincerely thank [Rémy Ruiz](mailto:remyruiz@gmail.com) for writing this documentation and translation of ReminderApp into French, English, Italian and Spanish and for his feedback and suggestions.    
