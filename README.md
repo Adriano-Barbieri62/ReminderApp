@@ -6,7 +6,7 @@ With ReminderApp (Reminder), no more forgetting!
 Rest assured, this program is there to remind you of everything that is important thanks to reminders such as (eg: take your medication, don't forget an appointment or someone's visit, with the baby-minder, domestic help, nurse, etc.).    
 Even birthday reminders!    
 We've all experienced this embarrassing moment at least once in our lives: forgetting a loved one's birthday! It must be said that it is not always easy to remember the birthday dates of all the people you are used to knowing (especially when you come from a large family or are part of a large group of friends).    
-You enter the birthday dates of the whole family and the program will remind you of them every year with an alarm, including reminders of a anniversariy!    
+You enter the birthday dates of the whole family and the program will remind you of them every year with an alarm, including reminders of a anniversary!    
 This program also contains an address book and much more to discover!    
 
 To learn more and configure this program Please read this documentation in its entirety. Thanks.    
