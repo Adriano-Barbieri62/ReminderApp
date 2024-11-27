@@ -6,7 +6,7 @@ With ReminderApp (Reminder), no more forgetting!
 Rest assured, this program is there to remind you of everything that is important thanks to reminders such as (eg: take your medication, don't forget an appointment or someone's visit, with the baby-minder, domestic help, nurse, etc.).    
 Even birthday reminders!    
 We've all experienced this embarrassing moment at least once in our lives: forgetting a loved one's birthday! It must be said that it is not always easy to remember the birthday dates of all the people you are used to knowing (especially when you come from a large family or are part of a large group of friends).    
-You enter the birthday dates of the whole family and the program will remind you of them every year with an alarm, including reminders of a anniversary!    
+You enter the birthday dates of the whole family and the program will remind you of them every year with an alarm, including reminders of a anniversariy!    
 This program also contains an address book and much more to discover!    
 
 To learn more and configure this program Please read this documentation in its entirety. Thanks.    
@@ -188,6 +188,8 @@ If you want the icon to always be seen in the taskbar, you can do so, once hidde
 Choosing this option will allow the program to start automatically when Windows starts.    
 * Show reminder preview at startup if the program is minimized (checked by default)    
 When the program minimizes to the system tray at startup, it opens a preview of the day's reminders.    
+* Check for updates (selected by default)    
+If this option is enabled, check for program updates at startup.    
 Once the configuration is complete, press Enter or the "OK" button to validate the changes. To cancel the changes press Escape or the "Cancel" button.    
 Continuing with the Settings menu:    
 * Set hotkey combination Ctrl+Shift+K    
@@ -214,6 +216,8 @@ Press Alt+F4 to close it.
 * Key shortcuts... F9    
 When you press Enter on this item, a dialog box will open in which the program's keyboard shortcuts will be displayed in a read-only editing list, use the arrow keys to move through the list.    
 Press Tab and then click the Close button or press the Escape or Enter key to close this dialog box and then return to the main program window.    
+* Check for updates... Ctrl+Shift+U    
+When you press Enter on this item, you will be notified if there are updates for the program, if so, follow the instructions on the screen.    
 
 # 4.\ Additional information for the main window for the option "Reminder for the selected day:" <a name="toc4"></a>
 When you change the date in the main window selector, if the selected date matches a reminder, a sonar sound will sound.    
