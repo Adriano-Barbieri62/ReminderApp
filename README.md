@@ -1,6 +1,4 @@
-﻿% ReminderApp (Reminder) - User manual
-
-<html lang="en">
+﻿# ReminderApp (Reminder) - User manual
 
 With ReminderApp (Reminder), no more forgetting!    
 Rest assured, this program is there to remind you of everything that is important thanks to reminders such as (eg: take your medication, don't forget an appointment or someone's visit, with the baby-minder, domestic help, nurse, etc.).    
