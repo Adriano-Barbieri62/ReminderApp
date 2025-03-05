@@ -106,6 +106,23 @@ Press the `OK` button, A new dialog box appears with the name:
 Press either the Yes or No button depending on your choice.    
 FOR YOUR INFORMATION    
 `JSON files in the case of this program are structured as a list of data, for example: ["...", "...", "..."] and are more convenient for the program to manage, while text files they are structured with a new line marker, for example line\nline\nline etc which are more human readable`.    
+* Export the configuration folder... Ctrl+E    
+Press Enter, a dialog box with the name will appear:    
+`Choose destination folder`    
+Select the export location for the ReminderApp_config folder in the edit field:    
+Down arrow to find:    
+Select folder    
+If everything went well, the following message will appear:    
+`Notify! Configuration exported successfully!`    
+
+* Import the configuration folder... Ctrl+I    
+Press Enter, a dialog box with the name will appear:    
+`Choose source folder`    
+Select the location of the ReminderApp_config folder in the edit field:    
+Down arrow to find:    
+Select folder    
+If everything went well, the following message will appear:    
+`Notice! Configuration imported successfully!`    
 * Exit  Alt+f4    
 This option closes the program until the next reboot via the executable file (ReminderApp.exe), unless you have configured it when Windows starts.    
 
