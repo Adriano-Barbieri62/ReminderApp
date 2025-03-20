@@ -73,7 +73,7 @@ In the main window of the program at startup we will find the following five men
 # File Menu Submenu Alt+ f
 
 In this first menu we will have the following options:    
-
+# Contacts submenu:
 * Export address book contacts... Ctrl+Shift+e    
 Press Enter, a dialog box appears as name:    
 `Export contacts`    
@@ -105,7 +105,14 @@ Press the `OK` button, A new dialog box appears with the name:
 `By choosing No, they will only be added to existing ones.`    
 Press either the Yes or No button depending on your choice.    
 FOR YOUR INFORMATION    
-`JSON files in the case of this program are structured as a list of data, for example: ["...", "...", "..."] and are more convenient for the program to manage, while text files they are structured with a new line marker, for example line\nline\nline etc which are more human readable`.    
+`JSON files in the case of this program are structured as a list of data, for example: ["...", "...", "..."] and are more convenient for the program to manage, while text files they are structured with a new line marker, for example:    
+line    
+line    
+line    
+etc which are more human readable`.    
+
+# Configuration submenu
+
 * Export the configuration folder... Ctrl+E    
 Press Enter, a dialog box with the name will appear:    
 `Choose destination folder`    
