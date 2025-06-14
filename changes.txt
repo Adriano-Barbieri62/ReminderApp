@@ -1,0 +1,67 @@
+Version 2.4
+• At midnight, as soon as the day changes, if there's a birthday or anniversary, it will now be notified.
+• Fixed a string from "Lunedi" to "Lunedì" that was preventing the conversion of "Monday" when the configuration with English values was loaded from the namesake add-on.
+
+Version 2.3
+•Added automatic update of the main selector's date at midnight.
+
+Version 2.2
+• Some optimizations in the code.
+
+Version 2.1
+• All the local translations are corrected.
+
+Version 2.0
+• Improved program update function.
+• Grouped import/export options for Contacts and Configuration in submenus.
+• Updated Readme.
+
+Version 1.9
+• Added the ability to import or export the configuration folder (ReminderApp_config).
+
+Version 1.8
+• This version is fully compatible with ReminderApp-1.1.nvda-addon and later versions.
+
+Version 1.7
+• Fixed 'Giornaliero' key in 'Giornaliera' in replaceCompatiblevalue function.
+• Added 5 new alarm.
+
+Version 1.6
+• Added 8 new alarm.
+
+Version 1.5
+• Added the possibility of including additional notes to the reminder and manage them.
+• Added the possibility of seeing the repetition of the reminder.
+• Added the possibility of sending emails to contact if present.
+• Added the possibility of moving the reminders.
+• Added new 2 alarm
+
+Version 1.4
+• Added a new quick button, to bring Reminderapp to the foreground.
+• Added the function to set up a combination for "current notification", and also for "Exhibition reminder.
+• Fixed a bug in recurring reminders in annual mode; out of range when reading from the translated month list.
+
+Version 1.3
+• Added the zodiac signs and 12 new strings.
+• Added the possibility to choose the melody to play (applicable only to Anniversaries and Birthdays).
+• Added for this purpose a new folder in Sounds/Samples/Melodies, containing various melodies for Anniversaries and Birthdays.
+• Update README.md
+
+Version 1.2
+•  Added the Slovak localization and also completed the Czech one, thanks to Pavel Partyka.
+• Optimized the function to bring the main application window to the foreground, it is now more responsive even with many windows open.
+• A bug in reading the translated list of months, which affected yearly reminders, has been fixed.
+• The code has been recompiled with py2exe, making it more compatible and friendly for Windows Defender.
+
+Version 1.1
+• Added auto-update capability.
+• Added Arabic localization, thanks to Atoon..
+• Updated German documentation thanks to Karl.
+• Updated Czech and Slovak documentation thanks to Pavel Partyka.
+• Bug fixed if there is no reminders and the option to preview with minimize to icon is activated.
+• Fixed a > to >= condition to present repeating reminders up to a specific date; now the repeated reminder is displayed correctly even up to and including the set date.
+• Archive changed from .rar to .zip format; Some users are in trouble to extract .rar format.
+
+Version 1.0
+Initial commit: Nov 10, 2024
+Created ReninderApp.
