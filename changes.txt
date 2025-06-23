@@ -1,3 +1,5 @@
+Version 2.5
+• Fixed the conversion of months to start with a capital letter when importing data from the addon to the application.
 Version 2.4
 • At midnight, as soon as the day changes, if there's a birthday or anniversary, it will now be notified.
 • Fixed a string from "Lunedi" to "Lunedì" that was preventing the conversion of "Monday" when the configuration with English values was loaded from the namesake add-on.
