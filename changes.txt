@@ -1,3 +1,9 @@
+Version 2.6
+• Added the 'Create reminder list with expiration date' feature in the Edit menu.
+• Added 'memo' icon to highlight reminders with additional notes.
+• Improved the Anniversary and Birthday notification window, which previously did not stop the music when closed.
+• Documentation updated.
+
 Version 2.5
 • Fixed the conversion of months to start with a capital letter when importing data from the addon to the application.
 Version 2.4

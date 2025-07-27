@@ -14,7 +14,7 @@ Note: In this document, specific terminology has been adopted for users who use 
 # User Guide
 
 * Author: [Adriano Barbieri](mailto:adrianobarb@yahoo.it)
-* Last modified: November 2024
+* Last modified: July 2025
 
 ## Table of contents
 
@@ -74,7 +74,7 @@ In the main window of the program at startup we will find the following five men
 
 In this first menu we will have the following options:    
 # Contacts submenu:
-* Export address book contacts... Ctrl+Shift+e    
+* Export address book contacts... Ctrl+Shift+E    
 Press Enter, a dialog box appears as name:    
 `Export contacts`    
 Select the location and export name of your list, in the edit field:    
@@ -87,7 +87,7 @@ Finally save your file by pressing the button:
 `Save`    
 If everything went well, the following message will appear:    
 `Note! Contacts exported successfully!`    
-* Import contacts into your address book... Ctrl+Shift+i    
+* Import contacts into your address book... Ctrl+Shift+I    
 Press Enter, a dialog box appears as name:    
 `Select a file to import`    
 `File name`    
@@ -137,7 +137,13 @@ This option closes the program until the next reboot via the executable file (Re
 
 In this second menu we will have the following options:    
 
-* Add reminder... Ctrl+n    
+* Create reminder list with expiration date... Ctrl+L    
+This function allows you to generate a list of reminders, each associated with an Appointment or Medication type event.    
+For each entry, you can set a specific alert date.    
+The entire list can be configured to repeat until a final date, applying the repetition to all included reminders.    
+When finished, press "Save" to confirm or "Cancel" to exit without making changes.    
+Through the context menu of the list (initially empty), you can manage individual items: add, edit, or delete them.    
+* Add reminder... Ctrl+N    
 * Edit reminder... F2    
 * Move reminder... Ctrl+F2    
 * Delete reminder... Del    
@@ -152,11 +158,11 @@ The melodies are stored in the Sounds, Samples, Melodies folder and are in .wav 
 You can add more as long as they are of the same format and of short duration.    
 If there are multiple anniversaries/birthdays on the same day, these will be grouped into a single notification, therefore the first melody on the list will be used.    
 Continuing with the Edit menu:    
-* Delete past appointments... Ctrl+Shift+a    
-* Eliminate past medicines... Ctrl+Shift+m    
+* Delete past appointments... Ctrl+Shift+A    
+* Eliminate past medicines... Ctrl+Shift+M    
 * Address book... F4    
 A dialog box will open for the options just described, follow the instructions on the screen.    
-* Set to current date Ctrl+Shift+h    
+* Set to current date Ctrl+Shift+H    
 It will reset the date selector to the current date.    
 * Stop current notification Ctrl+Shift+F1    
 
@@ -191,7 +197,7 @@ Seeing these dates is useful for easily finding reminders to change or delete th
 
 In this fourth menu we will have the following options:    
 
-* Set notifications Ctrl+Shift+n    
+* Set notifications Ctrl+Shift+N    
 Press enter, a dialog box appears, move with "Tab" and "Shift+Tab" to move between controls, up and down arrows to change the parameter value.    
 `Number of repetitions: 3`    
 `Interval between repetitions (seconds): 8`    
@@ -224,7 +230,7 @@ When you press Enter on this item, a dialog box will open where there are some l
 You can choose the interface language by selecting among the languages currently available displayed in this dialog.    
 A dialog box appears informing you that the language has been changed and then that the program must be restarted for these changes to take effect.    
 
-# Help Menu Submenu Alt+ h
+# Help Menu Submenu Alt+H
 
 In this fifth and final menu we will have the following options:    
 
@@ -268,7 +274,7 @@ A dialog box will open for the menu options just described, follow the on-screen
 * Find next F3    
 * Find previous Shift+F3    
 Both of these options are based on the contact name you typed in the "Find contact" dialog box, so the search is performed with the next or previous match of the same name found in the address book list.    
-* Send email to contact... Ctrl+e    
+* Send email to contact... Ctrl+E    
 A dialog box will open for this option, follow the on-screen instructions.    
 
 Please note that you can send an email to the contact if the contact's email has been entered in the edit field separated by a space at the beginning (and if necessary at the end), when editing the name of contact, for example. Otherwise, if there is no email in this edit box, this option will not be available to send it.    
