@@ -1,3 +1,6 @@
+Version 2.9
+• Fixed the date sorting when creating the appointments list.
+• Description entry now automatically capitalizes only the first letter of the first word in the text and emits a beep.
 Version 2.8
 • added certifi and ssl dipendences.
 Version 2.6
